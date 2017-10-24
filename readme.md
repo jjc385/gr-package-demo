@@ -25,6 +25,6 @@ computing Ricci tensors and such.
 
 I initially uploaded this package in answering 
 [this mathematic.stackexchange question](https://mathematica.stackexchange.com/questions/158444/a-simple-implementation-of-higher-spin-calculus-explanation-given).
-The package is (hopefully) better explained in my answer there (not yet posted
-as of this writing).  This repo is merely to serve as a reference to clarify my
+The package is (hopefully) better explained in [my answer there](https://mathematica.stackexchange.com/a/158527/11035).
+This repo is merely to serve as a reference to clarify my
 meaning and implementation.
